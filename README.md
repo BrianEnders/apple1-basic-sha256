@@ -13,14 +13,5 @@ Apple 1 Basic is very slow. It takes about 45 minutes to process the expansion a
 
 Thanks you to Ken Shirriff, David Rabahy, and Will Scullin, and The Woz
 
-BTC:
-3J1UZSrfhHz3n6V4nFGRkJtUPnSk7Rxm6G
-
-LTC:
-LVVFkds7vYEN3yVDpXVPeMUtMYKZ8pNYbu
-
-ETH and ERC20 Tokens:
-0xf02a22f7b4fd26264f6086c79785c80e04ed2256
-
 Brian Ouellette
 Twitter: @Brian_Enders
